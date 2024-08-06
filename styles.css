@@ -1,7 +1,14 @@
 * {
-    background-color: lightskyblue;
+    background-color: #87cefa;
 }
 
 body {
     font-family: 'Courier New', Courier, monospace;
+}
+
+.LimeChicken,
+.PulledPork,
+.BerryCompote {
+    height: auto;
+    width: 550px;
 }
