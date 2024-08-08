@@ -10,6 +10,7 @@
 
 body {
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 10px;
 }
 
 .LimeChicken,
@@ -29,4 +30,11 @@ button {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #ff8c00;
     color: #f4f4f4;
+}
+
+.home-text {
+    display: block;
+    border: #ff8c00 inset 2px;
+    padding: 5px 8px;
+    display: inline-block;
 }
